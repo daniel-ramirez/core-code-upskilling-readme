@@ -1,5 +1,12 @@
 # Upskilling readme (core-code)
 
+# Index
+1. [Week 1](#week-1)
+    - [Ensure Question](#ensure-question)
+    - [Reversed Words](#reversed-words)
+    - [Smallest Integer In Array](#smallest-integer-in-array)
+    - [Odd or Even?](#odd-or-even)
+
 ## Week 1
 ### Ensure Question
 Given a string, write a function that returns the string with a question mark ("?") appends to the end, unless the original string ends with a question mark, in which case, returns the original string.
